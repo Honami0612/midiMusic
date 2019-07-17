@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 9c567097af68f4f64ba9198a5fee7240
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 4-2
+    100002: 4-3
+    100004: 4-4
+    100006: 4-5
+    100008: 4-6
+    100010: hat10
+    100012: //RootNode
+    100014: hat4
+    100016: hat5
+    100018: hat6
+    100020: hat7
+    100022: hat8
+    100024: hat9
+    100026: NurbsPath_000
+    100028: NurbsPath_001
+    100030: NurbsPath_004
+    400000: 4-2
+    400002: 4-3
+    400004: 4-4
+    400006: 4-5
+    400008: 4-6
+    400010: hat10
+    400012: //RootNode
+    400014: hat4
+    400016: hat5
+    400018: hat6
+    400020: hat7
+    400022: hat8
+    400024: hat9
+    400026: NurbsPath_000
+    400028: NurbsPath_001
+    400030: NurbsPath_004
+    2100000: Material
+    2100002: Material_026
+    2100004: Material_033
+    2100006: Material_012
+    2300000: 4-2
+    2300002: 4-3
+    2300004: 4-4
+    2300006: 4-5
+    2300008: 4-6
+    2300010: hat10
+    2300012: hat4
+    2300014: hat5
+    2300016: hat6
+    2300018: hat7
+    2300020: hat8
+    2300022: hat9
+    2300024: NurbsPath_000
+    2300026: NurbsPath_001
+    2300028: NurbsPath_004
+    3300000: 4-2
+    3300002: 4-3
+    3300004: 4-4
+    3300006: 4-5
+    3300008: 4-6
+    3300010: hat10
+    3300012: hat4
+    3300014: hat5
+    3300016: hat6
+    3300018: hat7
+    3300020: hat8
+    3300022: hat9
+    3300024: NurbsPath_000
+    3300026: NurbsPath_001
+    3300028: NurbsPath_004
+    4300000: NurbsPath_001
+    4300002: NurbsPath_000
+    4300004: 4-2
+    4300006: hat10
+    4300008: hat9
+    4300010: hat4
+    4300012: hat5
+    4300014: hat6
+    4300016: hat7
+    4300018: hat8
+    4300020: NurbsPath_004
+    4300022: 4-3
+    4300024: 4-5
+    4300026: 4-4
+    4300028: 4-6
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

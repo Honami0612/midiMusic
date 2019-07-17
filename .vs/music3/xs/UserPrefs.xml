@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{D2374E40-8B97-1798-7529-AA89761BB729}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/kick1.cs">
+    <Files>
+      <File FileName="Assets/script/kick1.cs" Line="1" Column="1" />
+      <File FileName="Assets/MidiJack/Midi.cs" Line="1" Column="1" />
+      <File FileName="Assets/MidiJack/MidiDriver.cs" Line="1" Column="1" />
+      <File FileName="Assets/MidiJack/MidiMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets/MidiJack/MidiStateUpdater.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/C.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Circle.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/cube2.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/cube3.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/cube4.cs" Line="19" Column="20" />
+      <File FileName="Assets/script/hanabi.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/hat1.cs" Line="1" Column="1" />
+      <File FileName="Assets/MidiJack/Editor/MidiJackWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/cube.cs" Line="13" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="music3" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MidiJack" expanded="True">
+                <Node name="Editor" expanded="True" />
+              </Node>
+              <Node name="script" expanded="True">
+                <Node name="kick1.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
